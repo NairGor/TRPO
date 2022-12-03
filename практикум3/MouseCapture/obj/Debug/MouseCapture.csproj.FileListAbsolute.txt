@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\MouseCapture\bin\Debug\MouseCapture.exe.config
+C:\Users\Professional\source\repos\MouseCapture\bin\Debug\MouseCapture.exe
+C:\Users\Professional\source\repos\MouseCapture\bin\Debug\MouseCapture.pdb
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MouseCapture.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MouseCapture_MarkupCompile.cache
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MouseCapture_MarkupCompile.lref
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MouseCapture.g.resources
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MouseCapture.Properties.Resources.resources
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MouseCapture.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MouseCapture.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MouseCapture.exe
+C:\Users\Professional\source\repos\MouseCapture\obj\Debug\MouseCapture.pdb
