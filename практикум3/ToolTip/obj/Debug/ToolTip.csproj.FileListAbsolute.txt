@@ -1,0 +1,30 @@
+C:\Users\Professional\source\repos\ToolTip\bin\Debug\ToolTip.exe.config
+C:\Users\Professional\source\repos\ToolTip\bin\Debug\ToolTip.exe
+C:\Users\Professional\source\repos\ToolTip\bin\Debug\ToolTip.pdb
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\ToolTip.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\ToolTip_MarkupCompile.cache
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\ToolTip_MarkupCompile.lref
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\ToolTip.g.resources
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\ToolTip.Properties.Resources.resources
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\ToolTip.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\ToolTip.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\ToolTip.exe
+C:\Users\Professional\source\repos\ToolTip\obj\Debug\ToolTip.pdb
+C:\Users\Professional\source\repos\практикум 3\ToolTip\bin\Debug\ToolTip.exe.config
+C:\Users\Professional\source\repos\практикум 3\ToolTip\bin\Debug\ToolTip.exe
+C:\Users\Professional\source\repos\практикум 3\ToolTip\bin\Debug\ToolTip.pdb
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\ToolTip.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\ToolTip_MarkupCompile.cache
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\ToolTip_MarkupCompile.lref
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\ToolTip.g.resources
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\ToolTip.Properties.Resources.resources
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\ToolTip.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\ToolTip.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\ToolTip.exe
+C:\Users\Professional\source\repos\практикум 3\ToolTip\obj\Debug\ToolTip.pdb
