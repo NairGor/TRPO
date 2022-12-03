@@ -1,0 +1,6 @@
+C:\Users\igorg\source\repos\UserRegistration\bin\Debug\UserRegistration.dll
+C:\Users\igorg\source\repos\UserRegistration\bin\Debug\UserRegistration.pdb
+C:\Users\igorg\source\repos\UserRegistration\obj\Debug\UserRegistration.csproj.AssemblyReference.cache
+C:\Users\igorg\source\repos\UserRegistration\obj\Debug\UserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\igorg\source\repos\UserRegistration\obj\Debug\UserRegistration.dll
+C:\Users\igorg\source\repos\UserRegistration\obj\Debug\UserRegistration.pdb

@@ -1,0 +1,6 @@
+C:\Users\igorg\source\repos\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.dll
+C:\Users\igorg\source\repos\MathTaskClassLibrary\bin\Debug\MathTaskClassLibrary.pdb
+C:\Users\igorg\source\repos\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.AssemblyReference.cache
+C:\Users\igorg\source\repos\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\igorg\source\repos\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.dll
+C:\Users\igorg\source\repos\MathTaskClassLibrary\obj\Debug\MathTaskClassLibrary.pdb
