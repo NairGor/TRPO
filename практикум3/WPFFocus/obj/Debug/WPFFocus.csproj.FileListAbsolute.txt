@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\WPFFocus\bin\Debug\WPFFocus.exe.config
+C:\Users\Professional\source\repos\WPFFocus\bin\Debug\WPFFocus.exe
+C:\Users\Professional\source\repos\WPFFocus\bin\Debug\WPFFocus.pdb
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\WPFFocus.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\WPFFocus_MarkupCompile.cache
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\WPFFocus_MarkupCompile.lref
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\WPFFocus.g.resources
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\WPFFocus.Properties.Resources.resources
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\WPFFocus.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\WPFFocus.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\WPFFocus.exe
+C:\Users\Professional\source\repos\WPFFocus\obj\Debug\WPFFocus.pdb
