@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\ImageList\bin\Debug\ImageList.exe.config
+C:\Users\Professional\source\repos\ImageList\bin\Debug\ImageList.exe
+C:\Users\Professional\source\repos\ImageList\bin\Debug\ImageList.pdb
+C:\Users\Professional\source\repos\ImageList\obj\Debug\ImageList.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\ImageList\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\ImageList\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\ImageList\obj\Debug\ImageList_MarkupCompile.cache
+C:\Users\Professional\source\repos\ImageList\obj\Debug\ImageList_MarkupCompile.lref
+C:\Users\Professional\source\repos\ImageList\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\ImageList\obj\Debug\ImageList.g.resources
+C:\Users\Professional\source\repos\ImageList\obj\Debug\ImageList.Properties.Resources.resources
+C:\Users\Professional\source\repos\ImageList\obj\Debug\ImageList.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\ImageList\obj\Debug\ImageList.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\ImageList\obj\Debug\ImageList.exe
+C:\Users\Professional\source\repos\ImageList\obj\Debug\ImageList.pdb
