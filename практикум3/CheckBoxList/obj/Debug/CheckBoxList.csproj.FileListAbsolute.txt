@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\bin\Debug\CheckBoxList.exe.config
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\bin\Debug\CheckBoxList.exe
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\bin\Debug\CheckBoxList.pdb
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\CheckBoxList.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\CheckBoxList_MarkupCompile.cache
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\CheckBoxList_MarkupCompile.lref
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\CheckBoxList.g.resources
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\CheckBoxList.Properties.Resources.resources
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\CheckBoxList.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\CheckBoxList.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\CheckBoxList.exe
+C:\Users\Professional\source\repos\практикум 3\CheckBoxList\obj\Debug\CheckBoxList.pdb

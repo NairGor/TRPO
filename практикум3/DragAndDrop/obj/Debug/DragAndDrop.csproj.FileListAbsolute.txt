@@ -1,0 +1,30 @@
+C:\Users\Professional\source\repos\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+C:\Users\Professional\source\repos\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Users\Professional\source\repos\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\DragAndDrop.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\DragAndDrop_MarkupCompile.cache
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\DragAndDrop_MarkupCompile.lref
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\DragAndDrop.g.resources
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Users\Professional\source\repos\DragAndDrop\obj\Debug\DragAndDrop.pdb
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\bin\Debug\DragAndDrop.exe.config
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\bin\Debug\DragAndDrop.exe
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\bin\Debug\DragAndDrop.pdb
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\DragAndDrop.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\DragAndDrop_MarkupCompile.cache
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\DragAndDrop_MarkupCompile.lref
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\DragAndDrop.g.resources
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\DragAndDrop.Properties.Resources.resources
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\DragAndDrop.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\DragAndDrop.exe
+C:\Users\Professional\source\repos\практикум 3\DragAndDrop\obj\Debug\DragAndDrop.pdb
