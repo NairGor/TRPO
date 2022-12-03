@@ -1,0 +1,29 @@
+C:\Users\Professional\source\repos\InkCanvas\bin\Debug\InkCanvas.exe.config
+C:\Users\Professional\source\repos\InkCanvas\bin\Debug\InkCanvas.exe
+C:\Users\Professional\source\repos\InkCanvas\bin\Debug\InkCanvas.pdb
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\InkCanvas.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\InkCanvas_MarkupCompile.cache
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\InkCanvas.g.resources
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\InkCanvas.Properties.Resources.resources
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\InkCanvas.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\InkCanvas.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\InkCanvas.exe
+C:\Users\Professional\source\repos\InkCanvas\obj\Debug\InkCanvas.pdb
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\bin\Debug\InkCanvas.exe.config
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\bin\Debug\InkCanvas.exe
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\bin\Debug\InkCanvas.pdb
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\InkCanvas.csproj.AssemblyReference.cache
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\InkCanvas.csproj.SuggestedBindingRedirects.cache
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\MainWindow.baml
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\MainWindow.g.cs
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\App.g.cs
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\InkCanvas_MarkupCompile.cache
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\InkCanvas.g.resources
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\InkCanvas.Properties.Resources.resources
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\InkCanvas.csproj.GenerateResource.cache
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\InkCanvas.csproj.CoreCompileInputs.cache
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\InkCanvas.exe
+C:\Users\sania\Desktop\Новая папка (3)\InkCanvas\obj\Debug\InkCanvas.pdb
