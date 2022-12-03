@@ -1,0 +1,14 @@
+C:\Users\Professional\source\repos\DockPanel\bin\Debug\DockPanel.exe.config
+C:\Users\Professional\source\repos\DockPanel\bin\Debug\DockPanel.exe
+C:\Users\Professional\source\repos\DockPanel\bin\Debug\DockPanel.pdb
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\DockPanel.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\DockPanel_MarkupCompile.cache
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\DockPanel.g.resources
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\DockPanel.Properties.Resources.resources
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\DockPanel.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\DockPanel.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\DockPanel.exe
+C:\Users\Professional\source\repos\DockPanel\obj\Debug\DockPanel.pdb
