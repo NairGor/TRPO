@@ -1,0 +1,14 @@
+C:\Users\Professional\source\repos\WrapPanel\bin\Debug\WrapPanel.exe.config
+C:\Users\Professional\source\repos\WrapPanel\bin\Debug\WrapPanel.exe
+C:\Users\Professional\source\repos\WrapPanel\bin\Debug\WrapPanel.pdb
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\WrapPanel.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\WrapPanel_MarkupCompile.cache
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\WrapPanel.g.resources
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\WrapPanel.Properties.Resources.resources
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\WrapPanel.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\WrapPanel.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\WrapPanel.exe
+C:\Users\Professional\source\repos\WrapPanel\obj\Debug\WrapPanel.pdb
