@@ -1,0 +1,15 @@
+C:\Users\Professional\source\repos\EventsInMarkup\bin\Debug\EventsInMarkup.exe.config
+C:\Users\Professional\source\repos\EventsInMarkup\bin\Debug\EventsInMarkup.exe
+C:\Users\Professional\source\repos\EventsInMarkup\bin\Debug\EventsInMarkup.pdb
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\EventsInMarkup.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\EventsInMarkup_MarkupCompile.cache
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\EventsInMarkup_MarkupCompile.lref
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\EventsInMarkup.g.resources
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\EventsInMarkup.Properties.Resources.resources
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\EventsInMarkup.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\EventsInMarkup.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\EventsInMarkup.exe
+C:\Users\Professional\source\repos\EventsInMarkup\obj\Debug\EventsInMarkup.pdb
