@@ -1,0 +1,30 @@
+C:\Users\Professional\source\repos\RadioButtonList\bin\Debug\RadioButtonList.exe.config
+C:\Users\Professional\source\repos\RadioButtonList\bin\Debug\RadioButtonList.exe
+C:\Users\Professional\source\repos\RadioButtonList\bin\Debug\RadioButtonList.pdb
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\RadioButtonList.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\RadioButtonList_MarkupCompile.cache
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\RadioButtonList_MarkupCompile.lref
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\RadioButtonList.g.resources
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\RadioButtonList.Properties.Resources.resources
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\RadioButtonList.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\RadioButtonList.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\RadioButtonList.exe
+C:\Users\Professional\source\repos\RadioButtonList\obj\Debug\RadioButtonList.pdb
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\bin\Debug\RadioButtonList.exe.config
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\bin\Debug\RadioButtonList.exe
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\bin\Debug\RadioButtonList.pdb
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\RadioButtonList.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\RadioButtonList_MarkupCompile.cache
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\RadioButtonList_MarkupCompile.lref
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\RadioButtonList.g.resources
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\RadioButtonList.Properties.Resources.resources
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\RadioButtonList.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\RadioButtonList.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\RadioButtonList.exe
+C:\Users\Professional\source\repos\практикум 3\RadioButtonList\obj\Debug\RadioButtonList.pdb
