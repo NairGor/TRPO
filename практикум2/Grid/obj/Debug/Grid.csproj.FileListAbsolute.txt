@@ -1,0 +1,29 @@
+C:\Users\Professional\source\repos\Grid\bin\Debug\Grid.exe.config
+C:\Users\Professional\source\repos\Grid\bin\Debug\Grid.exe
+C:\Users\Professional\source\repos\Grid\bin\Debug\Grid.pdb
+C:\Users\Professional\source\repos\Grid\obj\Debug\Grid.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\Grid\obj\Debug\MainWindow.baml
+C:\Users\Professional\source\repos\Grid\obj\Debug\MainWindow.g.cs
+C:\Users\Professional\source\repos\Grid\obj\Debug\App.g.cs
+C:\Users\Professional\source\repos\Grid\obj\Debug\Grid_MarkupCompile.cache
+C:\Users\Professional\source\repos\Grid\obj\Debug\Grid.g.resources
+C:\Users\Professional\source\repos\Grid\obj\Debug\Grid.Properties.Resources.resources
+C:\Users\Professional\source\repos\Grid\obj\Debug\Grid.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Grid\obj\Debug\Grid.exe
+C:\Users\Professional\source\repos\Grid\obj\Debug\Grid.pdb
+C:\Users\sania\Desktop\Новая папка (3)\Grid\bin\Debug\Grid.exe.config
+C:\Users\sania\Desktop\Новая папка (3)\Grid\bin\Debug\Grid.exe
+C:\Users\sania\Desktop\Новая папка (3)\Grid\bin\Debug\Grid.pdb
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\Grid.csproj.AssemblyReference.cache
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\Grid.csproj.SuggestedBindingRedirects.cache
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\MainWindow.baml
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\MainWindow.g.cs
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\App.g.cs
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\Grid_MarkupCompile.cache
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\Grid.g.resources
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\Grid.Properties.Resources.resources
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\Grid.csproj.GenerateResource.cache
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\Grid.exe
+C:\Users\sania\Desktop\Новая папка (3)\Grid\obj\Debug\Grid.pdb
