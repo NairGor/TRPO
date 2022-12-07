@@ -1,0 +1,13 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Позиционирование окна"
+        Height="300"
+        Width="300"
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Name="button1" 
+                Content="Переместить в центр" 
+                Click="button1_Click" Margin="71,124,74.333,120.667" />
+    </Grid>
+</Window>
