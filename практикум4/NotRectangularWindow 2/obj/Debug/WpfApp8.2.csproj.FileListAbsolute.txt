@@ -1,0 +1,14 @@
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\bin\Debug\WpfApp8.2.exe.config
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\bin\Debug\WpfApp8.2.exe
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\bin\Debug\WpfApp8.2.pdb
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\WpfApp8.2.csproj.AssemblyReference.cache
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\MainWindow.baml
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\MainWindow.g.cs
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\App.g.cs
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\WpfApp8.2_MarkupCompile.cache
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\WpfApp8.2.g.resources
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\WpfApp8._2.Properties.Resources.resources
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\WpfApp8.2.csproj.GenerateResource.cache
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\WpfApp8.2.csproj.CoreCompileInputs.cache
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\WpfApp8.2.exe
+C:\Users\igorg\source\repos\ПР4\WpfApp8.2\obj\Debug\WpfApp8.2.pdb
